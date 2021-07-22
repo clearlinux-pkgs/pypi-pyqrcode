@@ -4,7 +4,7 @@
 #
 Name     : PyQRCode
 Version  : 1.2.1
-Release  : 18
+Release  : 19
 URL      : https://files.pythonhosted.org/packages/37/61/f07226075c347897937d4086ef8e55f0a62ae535e28069884ac68d979316/PyQRCode-1.2.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/37/61/f07226075c347897937d4086ef8e55f0a62ae535e28069884ac68d979316/PyQRCode-1.2.1.tar.gz
 Summary  : A QR code generator written purely in Python with SVG, EPS, PNG and terminal output.
